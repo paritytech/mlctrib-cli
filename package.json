@@ -1,0 +1,19 @@
+{
+  "name": "malicious-contributors",
+  "version": "1.0.0",
+  "description": "Look for spies and hackers behind doors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "npx prettier --write ."
+  },
+  "author": "Giovanny Gongora",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
